@@ -10,7 +10,6 @@ Desarrollando soluciones web robustas y sostenibles. Me especializo en la creaci
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-4479A5?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,7 +18,6 @@ Desarrollando soluciones web robustas y sostenibles. Me especializo en la creaci
 
 | Plataforma | Acceder |
 | :--- | :--- |
-| **Portafolio** | [Ver mis Proyectos](https://julianwth.github.io/Portafolio/) |
 | **Correo Electrónico** | [julianwth0@gmail.com](mailto:julianwth0@gmail.com?subject=Contacto%20desde%20GitHub) |
 | **Discord** | Julian - ID: 1009499901496918097 |
 | **GitHub** | [Visita mi Perfil](https://github.com/julianwth) |
