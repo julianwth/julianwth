@@ -1,9 +1,9 @@
-# 👋 ¡Hola! Soy Julian de DevHub
+# 👋 ¡Hola! Soy Julian
 
 
 ## 💻 Desarrollador Backend & Frontend
 
-Desarrollando soluciones web robustas y sostenibles. Me especializo en la creación de arquitecturas de **backend** eficientes con Python y la construcción de experiencias de usuario atractivas con **frontend**. Siempre en búsqueda de nuevos desafíos y con un fuerte compromiso por el aprendizaje continuo.
+Desarrollando soluciones web robustas y sostenibles. Me especializo en la creación de arquitecturas de **backend** y la construcción de experiencias de usuario atractivas con **frontend**. Siempre en búsqueda de nuevos desafíos y con un fuerte compromiso por el aprendizaje continuo.
 
 ## 🛠️ Tecnologías y Herramientas:
 
